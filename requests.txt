@@ -1,4 +1,0 @@
-pystyle
-requests
-threading
-bs4
